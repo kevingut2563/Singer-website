@@ -1,0 +1,34 @@
+h1{
+    color: hotpink;
+}
+body{
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/ice-spice-poses-in-the-press-room-of-the-mtv-video-music-news-photo-1704405789.jpg?crop=1xw:0.7923xh;center,top);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h3{
+    color: pink;
+}
+h4{
+    color: white;
+    
+}
+table{
+    border:1px solid rgb(255, 255, 255);
+}
+th{
+    border:1px solid rgb(255, 255, 255);
+}
+td{
+    border:1px solid rgb(255, 255, 255);
+}
+table{
+    color: white;
+}
+table{
+    background-color: plum;
+}
+h2{
+    color: purple;
+}
